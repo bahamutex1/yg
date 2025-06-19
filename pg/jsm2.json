@@ -14,7 +14,8 @@
       "key": "火车影视",
       "name": "🥝火车｜APP",
       "type": 3,
-      "api": "https://try.gogs.io/guot54/bh/raw/main/py/火车影视.py",
+      "api": "http://124.71.188.169:8082/%E6%9C%AC%E5%9C%B0%E3%80%90%E6%BD%87%E6%B4%92%E7%BA%BF%E8%B7%AF%E3%80%91/py/%E7%81%AB%E8%BD%A6%E5%BD%B1%E8%A7%86.py
+",
       "searchable": 1,
       "changeable": 1,
       "quickSearch": 1,
