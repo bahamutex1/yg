@@ -10,6 +10,17 @@
       "api": "csp_Douban",
       "searchable": 0
     },
+     {
+      "key": "火车影视",
+      "name": "🥝火车｜APP",
+      "type": 3,
+      "api": "https://try.gogs.io/guot54/bh/raw/main/py/火车影视.py",
+      "searchable": 1,
+      "changeable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "playerType": 2
+    },
     {
       "key": "预告",
       "name": "新片｜预告",
